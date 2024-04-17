@@ -23,11 +23,9 @@ getgenv().Setting = {
       ["Z"] = {["Enable"] = true, ["Hold Time"] = 1.5},
       ["X"] = {["Enable"] = true, ["Hold Time"] = 0},
       ["C"] = {["Enable"] = true, ["Hold Time"] = 0},
-      ["V"] = {["Enable"] = true, ["Hold Time"] = 0},
+      ["V"] = {["Disable"] = true, ["Hold Time"] = 0},
       ["F"] = {["Enable"] = true, ["Hold Time"] = 0}
-
     },
-
     ["Sword"] = {["Enable"] = true,
       ["Z"] = {["Enable"] = true, ["Hold Time"] = 0.1},
       ["X"] = {["Enable"] = true, ["Hold Time"] = 0.1}
